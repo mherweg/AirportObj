@@ -1,0 +1,4 @@
+OBJECT KMRF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -104.015079 30.371898 1475.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -104.021546 30.375473 1476.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -104.010837 30.368751 1473.1 0.00

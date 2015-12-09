@@ -1,0 +1,4 @@
+OBJECT SCVL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -73.243335 -39.799400 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -73.243413 -39.800945 6.0 0.00
+OBJECT_SIGN {@Y}{^l}RWY_17_|_RWY_35{^r} -73.241527 -39.798182 5.7 281.31 3

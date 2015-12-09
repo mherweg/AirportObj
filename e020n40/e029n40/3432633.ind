@@ -1,0 +1,4 @@
+OBJECT LTFJ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.293971 40.893910 91.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.323353 40.904771 87.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 29.307505 40.903330 97.8 0.00

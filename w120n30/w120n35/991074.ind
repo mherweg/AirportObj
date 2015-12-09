@@ -1,0 +1,3 @@
+OBJECT L19.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -119.350447 35.618162 95.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -119.349279 35.617190 96.1 0.00

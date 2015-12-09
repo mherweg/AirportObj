@@ -1,0 +1,4 @@
+OBJECT KHNZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.521981 36.365719 147.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.528911 36.362581 156.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -78.526283 36.361221 153.3 0.00

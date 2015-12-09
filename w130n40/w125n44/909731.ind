@@ -1,0 +1,4 @@
+OBJECT KONP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -124.057562 44.582257 41.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -124.060642 44.575348 38.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -124.063748 44.576251 34.3 0.00

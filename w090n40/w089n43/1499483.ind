@@ -1,0 +1,7 @@
+OBJECT KETB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.133492 43.425375 267.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.121497 43.418150 262.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.133495 43.420354 264.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.121535 43.424894 263.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.128012 43.425965 266.1 0.00
+OBJECT_SIGN {@R}31-13 -88.131856 43.424649 266.9 143.47 2

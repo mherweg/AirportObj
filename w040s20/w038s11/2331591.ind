@@ -1,0 +1,6 @@
+OBJECT SBAR.btg
+OBJECT_SHARED Models/Airport/windsock.xml -37.075427 -10.984626 6.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -37.073733 -10.987122 8.7 0.00
+OBJECT SBAR.btg
+OBJECT_SHARED Models/Airport/windsock.xml -37.075427 -10.984626 6.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -37.073733 -10.987122 8.7 0.00

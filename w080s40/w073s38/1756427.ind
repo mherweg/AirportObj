@@ -1,0 +1,4 @@
+OBJECT SCPP.btg
+OBJECT_SHARED Models/Airport/windsock.xml -72.010848 -37.844394 498.6 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -72.012764 -37.837863 491.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -72.010982 -37.840275 495.8 0.00

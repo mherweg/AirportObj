@@ -1,0 +1,4 @@
+OBJECT BIHU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -17.427089 65.945709 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -17.424087 65.952386 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -17.420642 65.959312 0.0 0.00

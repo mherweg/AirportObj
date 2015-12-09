@@ -1,0 +1,12 @@
+OBJECT KAIG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.120377 45.153684 460.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.112300 45.158680 462.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.106586 45.148691 461.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.107484 45.154806 463.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.114783 45.159040 462.6 0.00
+OBJECT KAIG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.120377 45.153684 460.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.112300 45.158680 462.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.106586 45.148691 461.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.107484 45.154806 463.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.114783 45.159040 462.6 0.00

@@ -1,0 +1,4 @@
+OBJECT EGGP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -2.860737 53.334180 20.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -2.838202 53.335223 24.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -2.849177 53.332444 21.8 0.00

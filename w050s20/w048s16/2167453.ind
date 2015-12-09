@@ -1,0 +1,3 @@
+OBJECT SWFR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -47.345008 -15.554180 956.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -47.344984 -15.551570 952.7 0.00

@@ -1,0 +1,3 @@
+OBJECT OINR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 50.684649 36.907094 -22.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 50.682460 36.906116 -20.4 0.00

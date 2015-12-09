@@ -1,0 +1,12 @@
+OBJECT KARV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.733834 45.937710 495.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.733264 45.923616 493.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.735240 45.924587 493.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.721406 45.922784 493.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.727798 45.925986 493.1 0.00
+OBJECT KARV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.733834 45.937710 495.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.733264 45.923616 493.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.735240 45.924587 493.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.721406 45.922784 493.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.727798 45.925986 493.1 0.00

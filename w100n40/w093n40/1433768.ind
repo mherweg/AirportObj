@@ -1,0 +1,3 @@
+OBJECT KTVK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.898860 40.684294 311.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -92.900563 40.685734 311.5 0.00

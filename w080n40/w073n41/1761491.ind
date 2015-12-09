@@ -1,0 +1,3 @@
+OBJECT KGON.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -72.047543 41.327576 1.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -72.045450 41.331718 1.3 0.00

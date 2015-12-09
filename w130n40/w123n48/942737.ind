@@ -1,0 +1,3 @@
+OBJECT KNUW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.663601 48.355260 9.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -122.669316 48.344805 5.7 0.00

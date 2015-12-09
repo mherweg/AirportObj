@@ -1,0 +1,4 @@
+OBJECT SSBR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.426489 -23.067652 393.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -50.419626 -23.077905 404.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -50.422531 -23.072452 402.5 0.00

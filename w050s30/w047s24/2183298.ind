@@ -1,0 +1,8 @@
+OBJECT SBST.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.303250 -23.924952 5.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.302952 -23.925779 5.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.303002 -23.925699 5.8 0.00
+OBJECT SBST.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.303250 -23.924952 5.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.302952 -23.925779 5.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.303002 -23.925699 5.8 0.00

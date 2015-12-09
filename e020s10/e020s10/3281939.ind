@@ -1,0 +1,4 @@
+OBJECT FNSA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 20.420371 -9.678770 1093.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 20.442819 -9.698935 1090.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 20.434446 -9.689352 1096.0 0.00

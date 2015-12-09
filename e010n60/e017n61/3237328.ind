@@ -1,0 +1,4 @@
+OBJECT ESNY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 17.082967 61.268404 27.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 17.115647 61.254352 26.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 17.091705 61.269047 27.0 0.00

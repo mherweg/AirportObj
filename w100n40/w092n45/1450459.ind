@@ -1,0 +1,6 @@
+OBJECT KRCX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.001197 45.491444 372.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.005610 45.502112 373.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.998845 45.500503 377.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.995993 45.492940 373.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.998192 45.492205 373.1 0.00

@@ -1,0 +1,5 @@
+OBJECT KSEZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.786186 34.849613 1457.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.795067 34.844090 1441.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.781883 34.853146 1457.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -111.791435 34.847992 1453.7 0.00

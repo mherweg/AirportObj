@@ -1,0 +1,4 @@
+OBJECT L001.btg
+OBJECT_SHARED Models/Airport/windsock.xml -2.930694 43.271071 54.5 0.00
+OBJECT L004.btg
+OBJECT LEHS.btg

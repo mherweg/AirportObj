@@ -1,0 +1,5 @@
+OBJECT EDRP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.484124 49.262437 372.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.492081 49.266986 374.2 0.00
+OBJECT EDRX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.256106 49.341549 273.2 0.00

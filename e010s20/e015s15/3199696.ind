@@ -1,0 +1,4 @@
+OBJECT FN18.btg
+OBJECT_SHARED Models/Airport/windsock.xml 15.002489 -14.726274 1298.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 15.025454 -14.728955 1270.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 15.024639 -14.729909 1270.5 0.00

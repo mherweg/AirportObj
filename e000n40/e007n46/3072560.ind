@@ -1,0 +1,4 @@
+OBJECT LSGE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 7.079871 46.754411 694.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 7.076166 46.754628 694.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 7.076293 46.754639 694.6 0.00

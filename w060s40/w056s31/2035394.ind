@@ -1,0 +1,3 @@
+OBJECT SURV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -55.471167 -30.969908 199.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -55.471356 -30.970402 198.8 0.00

@@ -1,0 +1,4 @@
+OBJECT KDTS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.470306 30.397287 3.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.469170 30.398100 3.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -86.470717 30.396551 3.7 0.00

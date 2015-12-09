@@ -1,0 +1,4 @@
+OBJECT KPKF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.423789 45.960043 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.425605 45.950696 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.428027 45.952306 456.0 0.00

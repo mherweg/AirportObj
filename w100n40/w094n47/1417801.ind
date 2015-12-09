@@ -1,0 +1,7 @@
+OBJECT KGPZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.512971 47.212117 397.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.512628 47.216917 391.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.512705 47.215049 393.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.507929 47.199029 412.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.505626 47.216762 394.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -93.510808 47.214253 395.0 0.00

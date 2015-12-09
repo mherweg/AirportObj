@@ -1,0 +1,8 @@
+OBJECT SBPV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -63.901900 -8.702337 90.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -63.901327 -8.713054 88.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -63.900899 -8.715925 88.1 0.00
+OBJECT SBPV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -63.901900 -8.702337 90.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -63.901327 -8.713054 88.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -63.900899 -8.715925 88.1 0.00

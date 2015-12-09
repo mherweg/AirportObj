@@ -1,0 +1,5 @@
+OBJECT KHYR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.448553 46.020357 367.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.439413 46.032160 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.444451 46.021411 368.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -91.445866 46.028158 366.3 0.00

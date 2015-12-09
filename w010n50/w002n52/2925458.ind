@@ -1,0 +1,5 @@
+OBJECT EGBE.btg
+OBJECT_SHARED Models/Airport/windsock.xml -1.486504 52.367624 82.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -1.480976 52.370590 84.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -1.472995 52.372071 79.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -1.484897 52.363761 80.4 0.00

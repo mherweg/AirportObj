@@ -1,0 +1,4 @@
+OBJECT FN19.btg
+OBJECT_SHARED Models/Airport/windsock.xml 13.249679 -9.653219 103.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.246987 -9.656608 103.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.274313 -9.649492 108.1 0.00

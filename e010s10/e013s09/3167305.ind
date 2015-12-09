@@ -1,0 +1,6 @@
+OBJECT FNLU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.214003 -8.875965 72.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.225320 -8.855130 72.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.246450 -8.847333 68.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.238722 -8.854321 68.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 13.236902 -8.853055 71.0 0.00

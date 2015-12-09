@@ -1,0 +1,10 @@
+OBJECT SAWU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.567813 -50.015110 110.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.590165 -50.019001 111.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.579017 -50.020451 112.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -68.581402 -50.016559 112.9 0.00
+OBJECT SAWU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.567813 -50.015110 110.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.590165 -50.019001 111.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -68.579017 -50.020451 112.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -68.581402 -50.016559 112.9 0.00

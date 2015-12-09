@@ -1,0 +1,6 @@
+OBJECT KOEO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.696593 45.310083 268.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.697445 45.310522 268.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.682845 45.307022 272.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.690530 45.314422 267.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -92.689954 45.309308 270.1 0.00

@@ -1,0 +1,6 @@
+OBJECT KSUE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.424440 44.837745 219.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.424518 44.844597 218.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.420790 44.848959 212.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.413300 44.845483 216.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -87.419778 44.845264 218.2 0.00

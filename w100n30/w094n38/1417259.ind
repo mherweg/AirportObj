@@ -1,0 +1,4 @@
+OBJECT KDMO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.186293 38.701756 273.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.174683 38.709887 268.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -93.176693 38.710764 268.6 0.00

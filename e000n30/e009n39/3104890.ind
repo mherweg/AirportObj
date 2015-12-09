@@ -1,0 +1,4 @@
+OBJECT LIET.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.680730 39.920430 5.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.687779 39.917246 2.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.682992 39.918011 3.8 0.00

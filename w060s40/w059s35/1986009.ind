@@ -1,0 +1,12 @@
+OBJECT SADP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.616624 -34.600528 13.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.608599 -34.619299 19.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.603273 -34.612467 21.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.600321 -34.605807 21.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -58.601512 -34.605905 21.0 0.00
+OBJECT SADP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.616624 -34.600528 13.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.608599 -34.619299 19.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.603273 -34.612467 21.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.600321 -34.605807 21.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -58.601512 -34.605905 21.0 0.00

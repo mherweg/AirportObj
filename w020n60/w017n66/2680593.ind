@@ -1,0 +1,4 @@
+OBJECT BIKP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -16.465158 66.307249 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -16.460725 66.313634 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -16.470895 66.316773 0.0 0.00

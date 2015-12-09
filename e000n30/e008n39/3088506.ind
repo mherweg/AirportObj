@@ -1,0 +1,6 @@
+OBJECT LIER.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.642227 39.896756 11.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.637900 39.901275 11.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.640624 39.900107 11.4 0.00
+OBJECT_SIGN {@L}A{@R}14-28{@@}{@Y}{safety}{@L}A 8.638413 39.899279 10.7 142.38 5
+OBJECT_SIGN {@R}14-28{@L}A{@@}A{@Y}{safety} 8.638007 39.899603 10.6 127.87 5

@@ -1,0 +1,4 @@
+OBJECT KLVN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.235140 44.630814 291.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.221054 44.624901 288.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -93.227417 44.628489 289.1 0.00

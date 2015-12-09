@@ -1,0 +1,4 @@
+OBJECT LSMM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.094643 46.743988 576.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.122850 46.740666 578.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.108955 46.743577 577.5 0.00

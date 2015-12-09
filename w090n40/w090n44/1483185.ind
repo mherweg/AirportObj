@@ -1,0 +1,5 @@
+OBJECT KCWA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.674752 44.780656 387.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.647665 44.783798 376.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.672308 44.764168 371.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.671789 44.784907 390.7 0.00

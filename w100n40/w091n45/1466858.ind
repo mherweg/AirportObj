@@ -1,0 +1,8 @@
+OBJECT KPBH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.399674 45.715810 452.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.406845 45.702272 443.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.403953 45.705497 445.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.400393 45.718453 451.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.409010 45.703274 444.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.395948 45.707912 445.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.407237 45.705053 445.0 0.00

@@ -1,0 +1,3 @@
+OBJECT KNOW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -123.404198 48.140269 0.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -123.411805 48.140025 0.6 0.00

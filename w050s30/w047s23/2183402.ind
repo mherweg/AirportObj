@@ -1,0 +1,4 @@
+OBJECT SNOF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.392144 -22.295844 854.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.392605 -22.295762 854.9 0.00
+OBJECT_SIGN {@R}24-06{@@}{safety} -46.392412 -22.296628 854.9 225.00 2

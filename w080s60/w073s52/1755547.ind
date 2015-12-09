@@ -1,0 +1,8 @@
+OBJECT SAWT.btg
+OBJECT_SHARED Models/Airport/windsock.xml -72.218112 -51.606393 276.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -72.221580 -51.599946 279.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -72.223974 -51.605474 277.8 0.00
+OBJECT SAWT.btg
+OBJECT_SHARED Models/Airport/windsock.xml -72.218112 -51.606393 276.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -72.221580 -51.599946 279.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -72.223974 -51.605474 277.8 0.00

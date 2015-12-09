@@ -1,0 +1,3 @@
+OBJECT SD68.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -103.427755 43.380583 1087.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -103.434306 43.388819 1085.7 0.00

@@ -1,0 +1,4 @@
+OBJECT KLZZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.196608 31.111700 360.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -98.194575 31.100836 349.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -98.197079 31.106057 352.8 0.00

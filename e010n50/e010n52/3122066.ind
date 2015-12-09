@@ -1,0 +1,4 @@
+OBJECT EDVE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 10.548217 52.318107 78.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 10.562942 52.317742 86.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 10.558952 52.316337 85.2 0.00

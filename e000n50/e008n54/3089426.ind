@@ -1,0 +1,5 @@
+OBJECT EDXO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.681468 54.308290 -0.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.681899 54.308649 0.1 0.00
+OBJECT_SIGN {@Y}_1_/_2_{@@}_1_/_2_ 8.686695 54.308709 -1.2 288.54 5
+OBJECT_SIGN {@Y}_1_/_2_{@@}_1_/_2_ 8.686483 54.309044 -1.1 109.44 5

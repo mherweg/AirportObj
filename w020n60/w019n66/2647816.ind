@@ -1,0 +1,4 @@
+OBJECT BISI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -18.916062 66.133821 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -18.906068 66.139412 0.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -18.917805 66.134570 0.0 0.00

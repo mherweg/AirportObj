@@ -1,0 +1,3 @@
+OBJECT KFAY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.880115 34.989744 53.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -78.874272 34.984233 53.1 0.00

@@ -1,0 +1,6 @@
+OBJECT EDEH.btg
+OBJECT_SHARED Models/Airport/windsock.xml 8.490039 49.348715 93.9 0.00
+OBJECT EDRY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.455328 49.298072 93.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.451222 49.307780 95.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.454262 49.304292 94.3 0.00

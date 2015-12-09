@@ -1,0 +1,3 @@
+OBJECT KFVX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.438016 37.356257 120.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -78.437225 37.357215 121.2 0.00

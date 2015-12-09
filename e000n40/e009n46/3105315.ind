@@ -1,0 +1,4 @@
+OBJECT LSZS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.878224 46.527849 1705.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.888280 46.540819 1699.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.882966 46.533782 1701.7 0.00

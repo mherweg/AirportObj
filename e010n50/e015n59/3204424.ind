@@ -1,0 +1,5 @@
+OBJECT ESOE.btg
+OBJECT_SHARED Models/Airport/windsock.xml 15.051864 59.226971 51.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 15.053085 59.233810 51.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 15.031262 59.211147 48.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 15.043591 59.233688 56.1 0.00

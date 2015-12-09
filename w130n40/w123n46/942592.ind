@@ -1,0 +1,4 @@
+OBJECT KKLS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.903343 46.122613 4.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.892897 46.113867 3.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -122.906230 46.122950 4.9 0.00

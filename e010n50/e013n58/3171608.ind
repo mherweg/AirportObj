@@ -1,0 +1,7 @@
+OBJECT ESFR.btg
+OBJECT_SHARED Models/Airport/windsock.xml 13.052683 58.489900 77.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 13.053634 58.506835 72.4 0.00
+OBJECT ESGL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.156040 58.462444 61.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.159665 58.460023 61.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.171895 58.463447 59.2 0.00

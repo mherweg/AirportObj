@@ -1,0 +1,6 @@
+OBJECT KRNH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.540760 45.140046 297.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.542596 45.153061 302.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.533619 45.143589 302.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -92.533894 45.144074 302.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -92.537294 45.148758 300.9 0.00

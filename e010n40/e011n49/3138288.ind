@@ -1,0 +1,4 @@
+OBJECT EDQE.btg
+OBJECT_SHARED Models/Airport/windsock.xml 11.130310 49.793060 499.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 11.138349 49.793745 500.9 0.00
+OBJECT_SIGN {@Y}_1__/__2_{@@}{@Y}_1__/__2_ 11.134029 49.793974 502.3 93.70 3

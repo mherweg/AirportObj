@@ -1,0 +1,4 @@
+OBJECT EDAX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 12.738054 53.302653 64.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 12.753029 53.305955 64.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 12.739680 53.301569 64.6 0.00

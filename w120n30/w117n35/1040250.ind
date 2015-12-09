@@ -1,0 +1,4 @@
+OBJECT L61.btg
+OBJECT_SHARED Models/Airport/windsock.xml -116.270012 35.968885 474.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -116.269796 35.971669 476.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -116.268626 35.965309 470.7 0.00

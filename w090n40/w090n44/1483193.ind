@@ -1,0 +1,6 @@
+OBJECT KAUW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.637683 44.930303 360.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.624967 44.923082 360.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.617209 44.928996 361.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.628598 44.928324 365.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.627902 44.929693 366.8 0.00

@@ -1,0 +1,3 @@
+OBJECT KFRR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.250136 38.918430 210.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -78.249062 38.917314 212.3 0.00

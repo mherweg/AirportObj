@@ -1,0 +1,4 @@
+OBJECT KHZR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.477690 30.725354 10.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -91.479630 30.711282 8.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -91.477826 30.718266 9.6 0.00

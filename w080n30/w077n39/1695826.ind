@@ -1,0 +1,4 @@
+OBJECT KMTN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.421265 39.332565 6.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.407829 39.320057 2.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.420357 39.325867 3.8 0.00

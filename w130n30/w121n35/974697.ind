@@ -1,0 +1,6 @@
+OBJECT KPRB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.636201 35.666172 247.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.626877 35.677945 244.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.618204 35.666659 251.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.627010 35.680306 242.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -120.638081 35.672773 243.8 0.00

@@ -1,0 +1,6 @@
+OBJECT KFLD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.485785 43.778576 236.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.486692 43.763401 238.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.498387 43.771943 243.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.485701 43.771102 238.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.484629 43.770207 238.4 0.00

@@ -1,0 +1,4 @@
+OBJECT SWNS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.927390 -16.360949 1113.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.928015 -16.361892 1113.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -48.926514 -16.359700 1112.1 0.00

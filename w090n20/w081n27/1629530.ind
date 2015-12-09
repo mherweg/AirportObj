@@ -1,0 +1,6 @@
+OBJECT KFPR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.378733 27.496707 5.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.361603 27.488212 5.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.366893 27.495207 5.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.361320 27.496500 5.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -80.365724 27.487931 5.0 0.00

@@ -1,0 +1,3 @@
+OBJECT ETND.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.343058 52.588148 36.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 8.341912 52.588693 37.5 0.00

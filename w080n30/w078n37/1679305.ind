@@ -1,0 +1,3 @@
+OBJECT KPTB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.504704 37.184599 56.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -77.503337 37.182472 56.7 0.00

@@ -1,0 +1,6 @@
+OBJECT KOCQ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.914128 44.875214 182.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.903431 44.871731 182.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.913408 44.873735 183.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -87.912358 44.874906 183.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -87.911752 44.877162 181.8 0.00

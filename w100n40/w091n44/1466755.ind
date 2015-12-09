@@ -1,0 +1,5 @@
+OBJECT KDAF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.084806 44.036812 277.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.085393 44.030029 279.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.084704 44.032981 278.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.082944 44.033561 277.7 0.00

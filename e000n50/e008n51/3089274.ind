@@ -1,0 +1,4 @@
+OBJECT EDLI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 8.545923 51.965507 139.0 0.00
+OBJECT EDLO.btg
+OBJECT_SHARED Models/Airport/windsock.xml 8.661118 51.932954 165.0 0.00

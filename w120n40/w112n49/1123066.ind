@@ -1,0 +1,3 @@
+OBJECT EF3.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -111.342926 49.877146 799.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -111.343857 49.878039 799.8 0.00

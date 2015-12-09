@@ -1,0 +1,6 @@
+OBJECT KPYM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.728133 41.908251 43.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.726806 41.913918 46.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.730690 41.912003 45.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.720998 41.905802 41.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.731801 41.911079 44.2 0.00

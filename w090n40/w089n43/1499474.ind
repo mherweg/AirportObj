@@ -1,0 +1,3 @@
+OBJECT KHXF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.392916 43.348584 317.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.393807 43.347785 315.5 0.00

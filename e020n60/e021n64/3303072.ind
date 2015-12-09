@@ -1,0 +1,4 @@
+OBJECT ESNS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 21.057469 64.626770 44.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 21.096249 64.621921 39.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 21.079477 64.626633 43.4 0.00

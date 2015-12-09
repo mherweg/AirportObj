@@ -1,0 +1,6 @@
+OBJECT KEGV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.276582 45.927058 498.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.271999 45.936568 496.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.261540 45.936542 498.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -89.262265 45.929693 498.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -89.261910 45.932806 498.9 0.00

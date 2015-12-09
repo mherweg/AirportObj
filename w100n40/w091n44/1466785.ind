@@ -1,0 +1,4 @@
+OBJECT KVIQ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.518935 44.558845 367.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.505565 44.557402 371.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.516273 44.555731 365.7 0.00

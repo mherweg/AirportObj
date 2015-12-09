@@ -1,0 +1,5 @@
+OBJECT FAGC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.140374 -25.987382 1616.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 28.144244 -25.994150 1618.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 28.138244 -25.983508 1609.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 28.140771 -25.988975 1618.7 0.00

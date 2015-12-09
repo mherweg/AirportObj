@@ -1,0 +1,5 @@
+OBJECT EGKA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -0.297677 50.832265 0.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -0.297307 50.838121 -0.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -0.289476 50.836893 -1.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -0.295375 50.835510 -0.5 0.00
