@@ -1,0 +1,8 @@
+OBJECT CYML.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.229018 47.601029 283.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.218304 47.594283 280.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.233623 47.599269 286.9 0.00
+OBJECT CYML.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.229018 47.601029 283.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.218304 47.594283 280.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.233623 47.599269 286.9 0.00

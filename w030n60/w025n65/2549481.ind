@@ -1,3 +1,6 @@
 OBJECT BITF.btg
 OBJECT_SHARED Models/Airport/windsock.xml -24.009010 65.677888 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -24.000548 65.675086 0.0 0.00
+OBJECT BITF.btg
+OBJECT_SHARED Models/Airport/windsock.xml -24.009010 65.677888 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -24.000548 65.675086 0.0 0.00

@@ -1,0 +1,8 @@
+OBJECT CYSL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.839152 47.162745 231.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.833461 47.151878 244.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -67.835014 47.157698 242.5 0.00
+OBJECT CYSL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.839152 47.162745 231.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.833461 47.151878 244.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -67.835014 47.157698 242.5 0.00

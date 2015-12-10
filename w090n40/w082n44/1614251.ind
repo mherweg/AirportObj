@@ -1,0 +1,10 @@
+OBJECT CYVV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -81.110235 44.743147 219.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.116848 44.740640 216.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.104799 44.747071 217.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.112615 44.747202 212.1 0.00
+OBJECT CYVV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -81.110235 44.743147 219.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.116848 44.740640 216.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.104799 44.747071 217.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.112615 44.747202 212.1 0.00

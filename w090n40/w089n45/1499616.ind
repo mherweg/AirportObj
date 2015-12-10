@@ -1,0 +1,6 @@
+OBJECT Y55.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.926282 45.517856 491.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.935772 45.525607 500.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.923945 45.525683 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.924456 45.521543 494.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.924654 45.521075 493.7 0.00

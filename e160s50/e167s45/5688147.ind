@@ -1,0 +1,4 @@
+OBJECT NZMF.btg
+OBJECT_SHARED Models/Airport/windsock.xml 167.919540 -44.671400 -0.2 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 167.926422 -44.675346 10.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 167.922540 -44.672711 4.7 0.00

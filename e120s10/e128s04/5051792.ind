@@ -1,0 +1,4 @@
+OBJECT WAPP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 128.087211 -3.714961 14.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 128.096600 -3.701813 18.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 128.089618 -3.705736 26.1 0.00

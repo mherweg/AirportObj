@@ -1,0 +1,4 @@
+OBJECT UNKL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 92.465548 56.180438 282.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 92.521002 56.165454 278.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 92.494621 56.174690 272.7 0.00

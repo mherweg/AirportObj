@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Airport/windsock.xml 11.490599 51.769657 153.7 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 11.491111 51.767542 150.2 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 11.504903 51.763890 151.9 0.00
 OBJECT_SHARED Models/Airport/beacon.xml 11.517262 51.772934 -9999.0 0.00
+OBJECT EDCQ.btg
+OBJECT_SHARED Models/Airport/windsock.xml 11.490599 51.769657 153.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 11.491111 51.767542 150.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 11.504903 51.763890 151.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 11.517262 51.772934 -9999.0 0.00

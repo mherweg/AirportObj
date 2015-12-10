@@ -1,0 +1,12 @@
+OBJECT CHW2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.075498 43.920131 443.3 0.00
+OBJECT COL2.btg
+OBJECT_SHARED Models/Airport/windsock.xml -80.203887 43.917349 482.6 0.00
+OBJECT CPV2.btg
+OBJECT_SHARED Models/Airport/windsock.xml -80.153436 43.959264 469.3 0.00
+OBJECT CHW2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.075498 43.920131 443.3 0.00
+OBJECT COL2.btg
+OBJECT_SHARED Models/Airport/windsock.xml -80.203887 43.917349 482.6 0.00
+OBJECT CPV2.btg
+OBJECT_SHARED Models/Airport/windsock.xml -80.153436 43.959264 469.3 0.00

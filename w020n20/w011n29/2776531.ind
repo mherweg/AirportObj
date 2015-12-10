@@ -1,0 +1,4 @@
+OBJECT GMMF.btg
+OBJECT_SHARED Models/Airport/windsock.xml -10.179968 29.372157 41.2 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -10.182849 29.367794 41.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -10.181684 29.373784 36.2 0.00

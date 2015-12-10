@@ -1,0 +1,4 @@
+OBJECT YARM.btg
+OBJECT_SHARED Models/Airport/windsock.xml 151.620677 -30.524303 1083.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 151.610100 -30.524976 1074.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 151.614045 -30.531852 1085.3 0.00

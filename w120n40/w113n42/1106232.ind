@@ -1,0 +1,3 @@
+OBJECT U36.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -112.883219 42.921386 1358.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -112.882094 42.921665 1357.8 0.00

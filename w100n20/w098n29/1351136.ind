@@ -1,3 +1,6 @@
 OBJECT E70.btg
 OBJECT_SHARED Models/Airport/windsock.xml -97.991187 29.607254 170.0 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -97.991120 29.606939 169.9 0.00
+OBJECT E70.btg
+OBJECT_SHARED Models/Airport/windsock.xml -97.991187 29.607254 170.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -97.991120 29.606939 169.9 0.00

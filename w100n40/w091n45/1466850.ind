@@ -1,0 +1,6 @@
+OBJECT 5N2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.280180 45.538862 475.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.278464 45.539554 475.5 0.00
+OBJECT 5N2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -90.280180 45.538862 475.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -90.278464 45.539554 475.5 0.00

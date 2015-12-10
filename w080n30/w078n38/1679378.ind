@@ -1,2 +1,4 @@
 OBJECT KEZF.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -77.449486 38.266713 24.8 0.00
+OBJECT VA42.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -77.449888 38.358982 40.6 0.00

@@ -1,0 +1,4 @@
+OBJECT RPLI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 120.530646 18.167694 3.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 120.532688 18.187984 3.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 120.532038 18.178103 5.4 0.00

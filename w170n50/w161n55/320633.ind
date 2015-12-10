@@ -1,0 +1,4 @@
+OBJECT PAAL.btg
+OBJECT_SHARED Models/Airport/windsock.xml -160.555955 56.008811 4.9 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -160.573447 55.989532 1.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -160.557013 56.007236 4.8 0.00

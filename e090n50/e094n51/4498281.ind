@@ -1,0 +1,4 @@
+OBJECT UNKY.btg
+OBJECT_SHARED Models/Airport/windsock.xml 94.387149 51.662313 644.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 94.414399 51.676839 644.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 94.401941 51.668120 643.3 0.00

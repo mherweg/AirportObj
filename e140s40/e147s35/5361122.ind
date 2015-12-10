@@ -1,0 +1,5 @@
+OBJECT YTEM.btg
+OBJECT_SHARED Models/Airport/windsock.xml 147.512858 -34.419551 274.6 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 147.511362 -34.429134 279.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 147.495617 -34.424432 278.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 147.515249 -34.423988 276.4 0.00

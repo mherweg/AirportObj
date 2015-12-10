@@ -1,0 +1,8 @@
+OBJECT CDA4.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -64.888451 47.717808 19.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -64.876391 47.714978 14.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -64.882144 47.717087 15.9 0.00
+OBJECT CDA4.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -64.888451 47.717808 19.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -64.876391 47.714978 14.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -64.882144 47.717087 15.9 0.00

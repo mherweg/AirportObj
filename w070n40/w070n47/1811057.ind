@@ -1,0 +1,8 @@
+OBJECT CYRI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.590836 47.759008 120.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.578407 47.769693 125.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -69.581909 47.762406 122.1 0.00
+OBJECT CYRI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.590836 47.759008 120.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.578407 47.769693 125.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -69.581909 47.762406 122.1 0.00

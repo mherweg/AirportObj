@@ -1,0 +1,4 @@
+OBJECT NTTO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -140.960465 -18.063257 2.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -140.932269 -18.085989 1.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -140.948883 -18.073118 1.2 0.00

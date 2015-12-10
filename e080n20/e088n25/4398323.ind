@@ -1,0 +1,5 @@
+OBJECT VGSD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 88.906012 25.767358 39.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 88.908255 25.762435 40.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 88.911731 25.751097 37.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 88.909870 25.759563 40.3 0.00

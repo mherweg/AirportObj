@@ -1,0 +1,8 @@
+OBJECT CNL3.btg
+OBJECT_SHARED Models/Airport/windsock.xml -75.746000 44.643274 119.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.750958 44.637230 121.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -75.751216 44.635983 121.0 0.00
+OBJECT CNL3.btg
+OBJECT_SHARED Models/Airport/windsock.xml -75.746000 44.643274 119.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.750958 44.637230 121.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -75.751216 44.635983 121.0 0.00

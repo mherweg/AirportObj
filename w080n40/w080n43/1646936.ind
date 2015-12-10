@@ -1,0 +1,8 @@
+OBJECT CZBA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -79.849339 43.442104 180.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -79.856380 43.444405 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -79.850771 43.442818 180.9 0.00
+OBJECT CZBA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -79.849339 43.442104 180.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -79.856380 43.444405 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -79.850771 43.442818 180.9 0.00

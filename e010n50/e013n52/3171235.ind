@@ -2,3 +2,7 @@ OBJECT EDAY.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml 13.909441 52.578188 77.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml 13.920136 52.583714 77.0 0.00
 OBJECT_SHARED Models/Airport/beacon.xml 13.916950 52.582132 77.2 0.00
+OBJECT EDAY.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.909441 52.578188 77.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.920136 52.583714 77.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 13.916950 52.582132 77.2 0.00

@@ -2,3 +2,11 @@ OBJECT BGMA.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -52.939992 65.411300 7.9 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -52.951878 65.414299 6.0 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -52.945414 65.413301 7.6 0.00
+OBJECT BGMA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -52.939992 65.411300 7.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -52.951878 65.414299 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -52.945414 65.413301 7.6 0.00
+OBJECT BGMA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -52.939992 65.411300 7.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -52.951878 65.414299 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -52.945414 65.413301 7.6 0.00

@@ -1,0 +1,4 @@
+OBJECT YTWB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 151.924695 -27.546748 625.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 151.913251 -27.542166 631.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 151.918026 -27.543933 633.1 0.00

@@ -2,3 +2,9 @@ OBJECT KMGG.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -93.991053 45.237079 308.6 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -93.980135 45.234912 311.9 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -93.985422 45.236559 311.8 0.00
+OBJECT 8Y2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.842815 45.158794 292.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -93.844918 45.159288 292.1 0.00
+OBJECT 8Y2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -93.842815 45.158794 292.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -93.844918 45.159288 292.1 0.00

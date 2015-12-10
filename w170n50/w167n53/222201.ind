@@ -1,0 +1,3 @@
+OBJECT PADU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.543644 53.896820 6.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.543230 53.895183 6.6 0.00

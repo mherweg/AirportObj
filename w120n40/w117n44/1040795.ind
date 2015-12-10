@@ -1,0 +1,3 @@
+OBJECT U70.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -116.015579 44.492317 1445.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -116.012795 44.492150 1446.7 0.00

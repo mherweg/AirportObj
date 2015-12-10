@@ -1,3 +1,9 @@
 OBJECT KMQS.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -75.875142 39.980917 193.4 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -75.855791 39.977005 -9999.0 0.00
+OBJECT 40N.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.875142 39.980917 193.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.855791 39.977005 -9999.0 0.00
+OBJECT 40N.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.875142 39.980917 193.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.855791 39.977005 -9999.0 0.00

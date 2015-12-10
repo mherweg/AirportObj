@@ -1,0 +1,8 @@
+OBJECT 20V.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -106.371716 40.054685 2250.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -106.363001 40.051960 2254.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -106.370865 40.056946 2251.7 0.00
+OBJECT 20V.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -106.371716 40.054685 2250.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -106.363001 40.051960 2254.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -106.370865 40.056946 2251.7 0.00

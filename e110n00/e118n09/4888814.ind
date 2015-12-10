@@ -1,0 +1,4 @@
+OBJECT RPVP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 118.747660 9.742979 19.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 118.769802 9.741343 5.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 118.756061 9.743014 16.7 0.00

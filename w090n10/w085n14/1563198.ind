@@ -1,0 +1,4 @@
+OBJECT MHDU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -84.220338 14.994178 85.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -84.220721 14.990360 82.7 0.00
+OBJECT_SIGN {@Y}{^l}01_|_19{^r} -84.219276 14.993845 85.4 81.42 3

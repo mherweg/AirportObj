@@ -1,0 +1,4 @@
+OBJECT NZAG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 175.647783 -36.735567 6.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 175.652347 -36.731849 6.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 175.649694 -36.733579 6.3 0.00

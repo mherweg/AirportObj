@@ -1,0 +1,4 @@
+OBJECT X6MU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -5.909098 56.518888 4.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -5.919671 56.516140 5.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -5.913522 56.516567 6.7 0.00

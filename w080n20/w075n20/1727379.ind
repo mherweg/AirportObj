@@ -1,0 +1,3 @@
+OBJECT MUBA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.509226 20.372420 3.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -74.504080 20.358900 10.5 0.00

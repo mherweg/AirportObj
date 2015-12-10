@@ -1,0 +1,4 @@
+OBJECT VOBL.btg
+OBJECT_SHARED Models/Airport/windsock.xml 77.687032 13.206188 915.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 77.722071 13.205782 890.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 77.703803 13.205938 907.0 0.00

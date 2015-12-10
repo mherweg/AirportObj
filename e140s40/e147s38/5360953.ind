@@ -1,0 +1,4 @@
+OBJECT YHOT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 147.340271 -37.050070 1292.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 147.330730 -37.044634 1298.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 147.335816 -37.047355 1299.1 0.00

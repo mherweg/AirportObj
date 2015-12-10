@@ -4,3 +4,9 @@ OBJECT_SHARED Models/Airport/windsock_lit.xml -20.286055 63.426748 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -20.273760 63.429984 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -20.265845 63.423499 0.0 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -20.269982 63.420141 0.0 0.00
+OBJECT BIVM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -20.283767 63.421401 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -20.286055 63.426748 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -20.273760 63.429984 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -20.265845 63.423499 0.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -20.269982 63.420141 0.0 0.00

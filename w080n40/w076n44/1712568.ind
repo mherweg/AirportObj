@@ -1,0 +1,8 @@
+OBJECT CYSH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -75.939555 44.946984 126.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.943910 44.944374 126.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.936430 44.948913 124.4 0.00
+OBJECT CYSH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -75.939555 44.946984 126.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.943910 44.944374 126.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -75.936430 44.948913 124.4 0.00

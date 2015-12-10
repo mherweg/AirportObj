@@ -1,0 +1,4 @@
+OBJECT WW44.btg
+OBJECT_SHARED Models/Airport/windsock.xml 140.847982 -4.744031 1315.6 0.00
+OBJECT WX43.btg
+OBJECT_SHARED Models/Airport/windsock.xml 140.792322 -4.722802 1656.6 0.00

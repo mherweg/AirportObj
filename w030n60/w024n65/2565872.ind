@@ -1,3 +1,6 @@
 OBJECT BITE.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -23.569201 65.872561 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -23.549719 65.867897 0.0 0.00
+OBJECT BITE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -23.569201 65.872561 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -23.549719 65.867897 0.0 0.00
