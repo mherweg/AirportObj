@@ -1131,6 +1131,7 @@
 ./w080s10/w075s09/SPCL.btg.gz
 ./w090s10/w081s01/SEMT.btg.gz
 ./e140n40/e141n42/RJCC.btg.gz
+./e140n40/e141n42/RJCJ.btg.gz
 ./w120n50/w112n58/CYPY.btg.gz
 ./w120n50/w114n51/EN3.btg.gz
 ./w120n50/w113n52/EJ3.btg.gz
@@ -2327,6 +2328,7 @@
 ./e130n30/e138n35/RJT2.btg.gz
 ./e130n30/e131n31/RJFM.btg.gz
 ./e130n30/e135n34/RJBE.btg.gz
+./e130n30/e136n34/RJGG.btg.gz
 ./w120n30/w120n34/L88.btg.gz
 ./w120n30/w120n34/02CL.btg.gz
 ./w120n30/w120n34/KSZP.btg.gz

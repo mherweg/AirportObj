@@ -1,0 +1,4 @@
+OBJECT RJGG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 136.802518 34.874573 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 136.808300 34.842255 0.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 136.807669 34.858783 0.0 0.00
