@@ -4,3 +4,5 @@ OBJECT BISS.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -21.573624 64.062089 0.0 0.00
 OBJECT BISS.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -21.573624 64.062089 0.0 0.00
+OBJECT BISS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -21.573624 64.062089 180.0 0.00

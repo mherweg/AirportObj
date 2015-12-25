@@ -7,3 +7,6 @@ OBJECT_SHARED Models/Airport/beacon.xml -21.698915 65.701137 0.0 0.00
 OBJECT BIHK.btg
 OBJECT_SHARED Models/Airport/windsock.xml -21.697822 65.701953 0.0 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -21.698915 65.701137 0.0 0.00
+OBJECT BIHK.btg
+OBJECT_SHARED Models/Airport/windsock.xml -21.697822 65.701953 22.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -21.698915 65.701137 23.8 0.00

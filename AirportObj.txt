@@ -352,6 +352,7 @@
 ./e000n40/e006n49/EDRJ.btg.gz
 ./e000n40/e006n49/ETAD.btg.gz
 ./e000n40/e006n49/EDRD.btg.gz
+./e000n40/e006n49/ELLX.btg.gz
 ./e000n40/e006n49/EDRB.btg.gz
 ./e000n40/e005n43/LFNR.btg.gz
 ./e000n40/e005n43/LFNF.btg.gz
@@ -605,6 +606,14 @@
 ./w010n30/w004n38/LELA.btg.gz
 ./w010n30/w004n34/GMFZ.btg.gz
 ./w010n60/w002n60/EGPM.btg.gz
+./w010n60/w007n61/EKFA.btg.gz
+./w010n60/w007n61/EKKV.btg.gz
+./w010n60/w007n61/EKSY.btg.gz
+./w010n60/w007n61/EKSR.btg.gz
+./w010n60/w008n62/EKVG.btg.gz
+./w010n60/w008n62/EKMS.btg.gz
+./w010n60/w007n62/EKSO.btg.gz
+./w010n60/w007n62/EKTB.btg.gz
 ./w010n60/w001n60/EGPW.btg.gz
 ./e070s10/e072s08/FJDG.btg.gz
 ./e100n70/e102n71/UOHH.btg.gz
@@ -1883,6 +1892,7 @@
 ./e000n30/e004n35/DAAD.btg.gz
 ./e000n30/e008n39/LIER.btg.gz
 ./e000n30/e001n36/DAOI.btg.gz
+./e000n30/e001n38/LEIB.btg.gz
 ./e000n30/e009n39/LIET.btg.gz
 ./e000n30/e009n39/LIEE.btg.gz
 ./w100n20/w096n29/KEFD.btg.gz
@@ -2074,6 +2084,7 @@
 ./e010n50/e013n55/ESTT.btg.gz
 ./e010n50/e013n55/ESTO.btg.gz
 ./e010n50/e012n52/EDBF.btg.gz
+./e010n50/e012n52/EDBE.btg.gz
 ./e010n50/e012n52/EDCL.btg.gz
 ./e010n50/e015n59/ESOE.btg.gz
 ./e010n50/e015n59/ESQO.btg.gz
