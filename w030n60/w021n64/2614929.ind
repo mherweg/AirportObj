@@ -10,3 +10,6 @@ OBJECT_SHARED Models/Airport/windsock.xml -20.272011 64.308887 0.0 0.00
 OBJECT BIGE.btg
 OBJECT_SHARED Models/Airport/windsock.xml -20.281737 64.304643 98.1 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -20.272011 64.308887 98.7 0.00
+OBJECT BIGE.btg
+OBJECT_SHARED Models/Airport/windsock.xml -20.281737 64.304643 98.1 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -20.272011 64.308887 98.7 0.00

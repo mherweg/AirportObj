@@ -10,3 +10,6 @@ OBJECT_SHARED Models/Airport/windsock_lit.xml -21.794768 65.076692 0.0 0.00
 OBJECT BIBR.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -21.806890 65.073772 40.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -21.794768 65.076692 40.4 0.00
+OBJECT BIBR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -21.806890 65.073772 40.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -21.794768 65.076692 40.4 0.00

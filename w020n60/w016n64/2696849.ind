@@ -14,3 +14,7 @@ OBJECT BIHN.btg
 OBJECT_SHARED Models/Airport/windsock.xml -15.227468 64.293624 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -15.227407 64.300894 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -15.225554 64.289771 0.0 0.00
+OBJECT BIHN.btg
+OBJECT_SHARED Models/Airport/windsock.xml -15.227468 64.293624 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -15.227407 64.300894 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -15.225554 64.289771 0.0 0.00

@@ -1,3 +1,6 @@
 OBJECT EKTB.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -6.757293 62.021739 18.7 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -6.757726 62.021679 -9999.0 0.00
+OBJECT EKTB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -6.757293 62.021739 18.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -6.757726 62.021679 -9999.0 0.00

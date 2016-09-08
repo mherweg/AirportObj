@@ -14,3 +14,7 @@ OBJECT BIBD.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -23.551126 65.638142 4.1 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -23.541123 65.644717 4.2 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -23.547496 65.641566 6.9 0.00
+OBJECT BIBD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -23.551126 65.638142 4.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -23.541123 65.644717 4.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -23.547496 65.641566 6.9 0.00

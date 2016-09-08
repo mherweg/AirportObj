@@ -14,3 +14,7 @@ OBJECT BIRG.btg
 OBJECT_SHARED Models/Airport/windsock.xml -15.927186 66.410265 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -15.935004 66.401834 0.0 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -15.915518 66.406762 0.0 0.00
+OBJECT BIRG.btg
+OBJECT_SHARED Models/Airport/windsock.xml -15.927186 66.410265 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -15.935004 66.401834 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -15.915518 66.406762 0.0 0.00

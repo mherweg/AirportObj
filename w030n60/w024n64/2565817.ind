@@ -10,3 +10,6 @@ OBJECT_SHARED Models/Airport/windsock.xml -23.215431 64.995842 0.0 0.00
 OBJECT BIGF.btg
 OBJECT_SHARED Models/Airport/windsock.xml -23.224486 64.990802 2.7 0.00
 OBJECT_SHARED Models/Airport/windsock.xml -23.215431 64.995842 8.0 0.00
+OBJECT BIGF.btg
+OBJECT_SHARED Models/Airport/windsock.xml -23.224486 64.990802 2.7 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -23.215431 64.995842 8.0 0.00
